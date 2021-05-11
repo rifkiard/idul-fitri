@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/idul-fitri/static/css/main.797e2bbe.chunk.css",
+    "main.js": "/idul-fitri/static/js/main.8b6618ab.chunk.js",
+    "main.js.map": "/idul-fitri/static/js/main.8b6618ab.chunk.js.map",
+    "runtime-main.js": "/idul-fitri/static/js/runtime-main.921f80c8.js",
+    "runtime-main.js.map": "/idul-fitri/static/js/runtime-main.921f80c8.js.map",
+    "static/js/2.4372c2a3.chunk.js": "/idul-fitri/static/js/2.4372c2a3.chunk.js",
+    "static/js/2.4372c2a3.chunk.js.map": "/idul-fitri/static/js/2.4372c2a3.chunk.js.map",
+    "static/js/3.d04061f2.chunk.js": "/idul-fitri/static/js/3.d04061f2.chunk.js",
+    "static/js/3.d04061f2.chunk.js.map": "/idul-fitri/static/js/3.d04061f2.chunk.js.map",
+    "index.html": "/idul-fitri/index.html",
+    "static/css/main.797e2bbe.chunk.css.map": "/idul-fitri/static/css/main.797e2bbe.chunk.css.map",
+    "static/js/2.4372c2a3.chunk.js.LICENSE.txt": "/idul-fitri/static/js/2.4372c2a3.chunk.js.LICENSE.txt",
+    "static/media/app.min.css": "/idul-fitri/static/media/remixicon.f2616f59.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.921f80c8.js",
+    "static/js/2.4372c2a3.chunk.js",
+    "static/css/main.797e2bbe.chunk.css",
+    "static/js/main.8b6618ab.chunk.js"
+  ]
+}
