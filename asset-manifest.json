@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5b56583.chunk.css",
-    "main.js": "/static/js/main.8fba35d0.chunk.js",
-    "main.js.map": "/static/js/main.8fba35d0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.739ff389.js",
-    "runtime-main.js.map": "/static/js/runtime-main.739ff389.js.map",
-    "static/js/2.118e1fa5.chunk.js": "/static/js/2.118e1fa5.chunk.js",
-    "static/js/2.118e1fa5.chunk.js.map": "/static/js/2.118e1fa5.chunk.js.map",
-    "static/js/3.c03f49d5.chunk.js": "/static/js/3.c03f49d5.chunk.js",
-    "static/js/3.c03f49d5.chunk.js.map": "/static/js/3.c03f49d5.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.b5b56583.chunk.css.map": "/static/css/main.b5b56583.chunk.css.map",
-    "static/js/2.118e1fa5.chunk.js.LICENSE.txt": "/static/js/2.118e1fa5.chunk.js.LICENSE.txt",
-    "static/media/greeting-card.776fe307.png": "/static/media/greeting-card.776fe307.png",
-    "static/media/app.min.css": "/static/media/remixicon.f2616f59.ttf"
+    "main.css": "/idul-fitri/static/css/main.01e351c2.chunk.css",
+    "main.js": "/idul-fitri/static/js/main.8fba35d0.chunk.js",
+    "main.js.map": "/idul-fitri/static/js/main.8fba35d0.chunk.js.map",
+    "runtime-main.js": "/idul-fitri/static/js/runtime-main.14ff90f9.js",
+    "runtime-main.js.map": "/idul-fitri/static/js/runtime-main.14ff90f9.js.map",
+    "static/js/2.118e1fa5.chunk.js": "/idul-fitri/static/js/2.118e1fa5.chunk.js",
+    "static/js/2.118e1fa5.chunk.js.map": "/idul-fitri/static/js/2.118e1fa5.chunk.js.map",
+    "static/js/3.c03f49d5.chunk.js": "/idul-fitri/static/js/3.c03f49d5.chunk.js",
+    "static/js/3.c03f49d5.chunk.js.map": "/idul-fitri/static/js/3.c03f49d5.chunk.js.map",
+    "index.html": "/idul-fitri/index.html",
+    "static/css/main.01e351c2.chunk.css.map": "/idul-fitri/static/css/main.01e351c2.chunk.css.map",
+    "static/js/2.118e1fa5.chunk.js.LICENSE.txt": "/idul-fitri/static/js/2.118e1fa5.chunk.js.LICENSE.txt",
+    "static/media/greeting-card.776fe307.png": "/idul-fitri/static/media/greeting-card.776fe307.png",
+    "static/media/app.min.css": "/idul-fitri/static/media/remixicon.f2616f59.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.739ff389.js",
+    "static/js/runtime-main.14ff90f9.js",
     "static/js/2.118e1fa5.chunk.js",
-    "static/css/main.b5b56583.chunk.css",
+    "static/css/main.01e351c2.chunk.css",
     "static/js/main.8fba35d0.chunk.js"
   ]
 }
